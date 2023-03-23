@@ -33,6 +33,6 @@ computadores e celulares.</p>
 <br>
 <br>
 
-<img src = "https://github.com/mateusrodrigues15/projeto-css-1/blob/master/We-Care-Mobile.png?raw=true" width = 25% align = "center"/> <img src = "https://github.com/mateusrodrigues15/projeto-css-1/blob/master/We-Care-Pc.png?raw=true" width = 40% align = "right"/>
+<img src = "https://github.com/mateusrodrigues15/We-Care-Project/blob/master/We-Care-Mob.png?raw=true" width = 25% align = "center"/> <img src = "https://github.com/mateusrodrigues15/We-Care-Project/blob/master/We-Care-Computer.png?raw=true" width = 70% align = "right"/>
 
 
