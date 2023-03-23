@@ -30,4 +30,9 @@ computadores e celulares.</p>
 <br>
 
 <h2 align = "center">Ilustração celular e Computador...</h2>
+<br>
+<br>
+
+<img src = "https://github.com/mateusrodrigues15/projeto-css-1/blob/master/We-Care-Mobile.png?raw=true" width = 25% align = "center"/> <img src = "https://github.com/mateusrodrigues15/projeto-css-1/blob/master/We-Care-Pc.png?raw=true" width = 40% align = "right"/>
+
 
